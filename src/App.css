@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color: #f4f6f8;
+}
+
+.card {
+  border-radius: 1.5rem;
+}
+
+.carousel-caption h3 {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #005aa7;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #003d73;
+}
